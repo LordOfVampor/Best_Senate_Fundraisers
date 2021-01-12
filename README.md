@@ -1,1 +1,2 @@
 # Best_Senate_Fundraisers
+This will determine which Senators have been in the most successful fundraisers in the period from 2000 to 2020, adjusting for the partisanship of the state in which they ran for office (since races in states with more even partisanship tend to raise more money) and adjusting for whether they ran in a midterm of Presidential year (since Senators raise less money in midterms.) 
